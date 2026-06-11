@@ -111,7 +111,11 @@ background-size: cover;
 }
 
 .main-content {
+<<<<<<< HEAD
   max-width: 100%;
+=======
+  max-width: 1400px;
+>>>>>>> 926cdf22a7c6090cea5c554e2081f18d93baddba
   margin: 0 auto;
   padding: 30px 30px 50px;
 }
@@ -147,7 +151,10 @@ background-size: cover;
 
 .photo-grid {
   display: flex;
+<<<<<<< HEAD
   width: 100%;
+=======
+>>>>>>> 926cdf22a7c6090cea5c554e2081f18d93baddba
   flex-wrap: wrap;
   gap: 0;
   margin-bottom: 40px;
